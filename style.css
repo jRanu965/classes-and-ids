@@ -1,0 +1,33 @@
+html,body{
+    background-color: rgb(87, 76, 16);
+    color: burlywood;
+}
+
+H1 {
+    font-size:50px;
+    color:rgb(146, 29, 59) 
+}
+
+.def {
+       color: deeppink;
+       background-color: aquamarine;
+       border: 2px dashed black;
+}
+
+
+
+.awesomeline {
+    border-bottom: 5px double red;
+}
+
+#coolstuff {
+    background-color: orange;
+}
+
+b.awesomeline {
+    border: 10px dubble purple;
+}
+
+.awesomeline {
+    color: white;
+}
